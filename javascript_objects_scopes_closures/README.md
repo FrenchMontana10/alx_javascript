@@ -1,0 +1,1 @@
+My Javascript Objects, Scopes and Closures file.
